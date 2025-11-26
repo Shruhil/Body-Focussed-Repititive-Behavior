@@ -1,0 +1,23 @@
+start,end ,activity
+0,6,idle
+6,7,head nod
+7,10,idle
+10,17,nail
+17,23,false alarm
+23,24,idle
+24,25,false alarm
+25,42,nail
+42,43,idle
+43,50,false alarm
+50,51,nail
+51,52,idle
+52,57,nail
+57,58,idle
+58,59,false alarm
+59,61,nail
+61,62,idle
+62,67,nail
+67,74,false alarm
+74,83,nail
+83,84,false alarm
+84,85,idle

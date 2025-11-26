@@ -1,0 +1,18 @@
+start,end ,activity
+0,1,head nod
+1,14,beard
+14,16,false alarm
+16,28,beard
+28,29,false alarm
+29,31,beard
+31,33,false alarm
+33,34,beard
+34,37,false alarm
+37,54,beard
+54,56,false alarm
+56,60,beard
+60,62,false alarm
+62,69,beard
+69,71,false alarm
+71,74,beard
+74,76,false alarm

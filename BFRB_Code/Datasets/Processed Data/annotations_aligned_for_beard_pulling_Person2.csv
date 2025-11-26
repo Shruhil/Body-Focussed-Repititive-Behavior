@@ -1,0 +1,10 @@
+start,end ,activity,imu_start,imu_end
+0,1,head nod,1.42,2.42
+1,16,beard,2.42,17.42
+16,17,false alarm,17.42,18.42
+17,70,beard,18.42,71.42
+70,72,idle,71.42,73.42
+72,73,false alarm,73.42,74.42
+73,83,beard,74.42,84.42
+83,84,false alarm,84.42,85.42
+84,87,idle,85.42,88.42

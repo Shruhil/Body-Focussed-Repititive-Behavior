@@ -1,0 +1,24 @@
+start,end ,activity
+0,1,head nod
+1,11,face
+11,15,idle
+15,16,face
+16,21,idle
+21,24,face
+24,25,false alarm
+25,43,face
+43,44,idle
+44,46,face
+46,48,idle
+48,55,face
+55,56,idle
+56,58,face
+58,59,idle
+59,65,face
+65,68,false alarm
+68,82,face
+82,83,idle
+83,96,face
+96,97,idle
+97,104,face
+104,105,idle

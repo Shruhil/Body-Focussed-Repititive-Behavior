@@ -1,0 +1,11 @@
+start,end ,activity
+0,1,head nod
+1,36,face
+36,37,false alram
+37,62,face
+62,63,idle
+63,79,face
+79,80,false alram
+80,83,idle
+83,84,false alram
+84,86,idle

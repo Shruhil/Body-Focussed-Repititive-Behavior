@@ -1,0 +1,11 @@
+start,end ,activity,imu_start,imu_end
+0,1,head nod,3.08,4.08
+1,36,face,4.08,39.08
+36,37,false alram,39.08,40.08
+37,62,face,40.08,65.08
+62,63,idle,65.08,66.08
+63,79,face,66.08,82.08
+79,80,false alram,82.08,83.08
+80,83,idle,83.08,86.08
+83,84,false alram,86.08,87.08
+84,86,idle,87.08,89.08

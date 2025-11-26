@@ -1,0 +1,16 @@
+start,end ,activity
+0,1,hair
+1,6,head nod
+6,35,hair
+35,38,false alarm
+38,40,idle
+40,51,hair
+51,52,false alarm
+52,53,idle
+53,84,hair
+84,85,false alarm
+85,88,idle
+88,99,hair
+99,103,idle
+103,111,hair
+111,112,idle

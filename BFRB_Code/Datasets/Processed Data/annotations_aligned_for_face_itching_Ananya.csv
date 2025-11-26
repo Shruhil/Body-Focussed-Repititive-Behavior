@@ -1,0 +1,10 @@
+start,end ,activity,imu_start,imu_end
+0,5,head nod,0.64,5.64
+5,6,idle,5.64,6.64
+6,14,face,6.64,14.64
+14,15,false alarm,14.64,15.64
+15,29,face,15.64,29.64
+29,30,idle,29.64,30.64
+30,31,false alarm,30.64,31.64
+31,66,face,31.64,66.64
+66,69,idle,66.64,69.64
